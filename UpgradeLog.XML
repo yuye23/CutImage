@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CutImage">
+</Property><Property Name="解决方案文件" Value="D:\My Documents\Visual Studio 2010\Projects\CutImage\CutImage.sln">
+</Property><Property Name="用户选项文件" Value="D:\My Documents\Visual Studio 2010\Projects\CutImage\CutImage.suo">
+</Property><Property Name="Date" Value="2013年6月15日">
+</Property><Property Name="Time" Value="23:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CutImage.sln" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CutImage.suo" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage.suo">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\CutImage.csproj" Description="项目文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\CutImage.csproj">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Form1.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Form1.designer.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Program.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Program.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Properties\Settings.settings" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Form1.resx" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\Properties\Resources.resx" Description="文件已成功备份为 D:\My Documents\Visual Studio 2010\Projects\CutImage\Backup\CutImage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\CutImage.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="CutImage" Source="CutImage\CutImage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CutImage.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="CutImage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CutImage" Source="CutImage\CutImage.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
