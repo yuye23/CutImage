@@ -70,6 +70,8 @@ namespace CutImage
                 Graphics g = pictureBox1.CreateGraphics();
                 SolidBrush myBrush = new SolidBrush(Color.White);
                 g.FillRectangle(myBrush, theRectangle);
+
+                ////
             }
             catch
             { }
